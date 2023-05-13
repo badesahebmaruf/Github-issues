@@ -1,0 +1,33 @@
+h1
+{
+    text-align: center;
+    padding: 30px;
+}
+#listitem
+{
+    text-align: center;
+    padding: 15px;
+}
+#button
+{
+    text-align: center;
+    padding: 15px;
+}
+#page-number
+{
+    padding: 10px;
+    background: #d86a92;
+    width: 12%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+ol {
+    width: 30%;
+    margin: auto;
+}
+ol > li {
+    padding: 10px;
+    margin: 5px;
+     background-color: #b2e779;
+     color: #40403b; 
+}
